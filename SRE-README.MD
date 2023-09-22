@@ -29,35 +29,45 @@ Site Reliability Engineering (SRE) is a discipline that blends aspects of softwa
 * SRE Team: Focuses on monitoring, alerting, and observability.
   
   Service Level Indicators (SLIs): Define key indicators of service health.
+  
   Service Level Indicators (SLAs): Define service level agreements based on SLIs.
+  
   Service Level Objectives (SLOs): Define reliability targets based on SLAs.
+  
   Alerting: Set up alerts based on SLIs to trigger responses when service reliability degrades.
 
 6. Incident Response:
 
 * SRE Team: Manages incident response, aiming for rapid resolution.
+  
   Blameless Post-Mortems: Conduct post-incident reviews to identify root causes and areas for improvement.
 
 7. Capacity Planning:
 
 * SRE Team: Monitors resource utilization and plans for scaling.
+  
   AWS Auto Scaling: Automates resource scaling based on demand.
 
 8. Disaster Recovery & Backup:
 
 * SRE Team: Develops and tests disaster recovery plans.
+  
   AWS Disaster Recovery Services: Utilizes AWS services for backup and recovery.
 
 9. Security:
 
 * SRE Team: Collaborates with security teams to ensure security best practices are followed.
+  
   IAM: Manages user access and permissions.
+  
   Security Groups and Network ACLs: Controls traffic.
+  
   Security Scanning: Conducts vulnerability scans and security testing.
 
 10. Compliance:
 
 * SRE Team: Ensures that the service adheres to compliance standards.
+  
   AWS Artifact: Access compliance reports and certifications.
 
 11. Customer Support:

@@ -5,36 +5,43 @@ From an Agile point of view, software application development is a dynamic and i
 1. Product Owner:
 
    Role: Represents the customer or stakeholder interests and defines the product vision.
+   
    Responsibilities: Prioritizes the product backlog, makes critical decisions, and ensures that the development team delivers value to customers.
 
 2. Scrum Master:
 
    Role: Facilitates the Agile process, removes impediments, and ensures the team follows Agile practices.
-   Responsibilities: Helps the team maintain focus and productivity, conducts sprint planning, and shields the team from external interruptions.
    
+   Responsibilities: Helps the team maintain focus and productivity, conducts sprint planning, and shields the team from external interruptions.
+
 3. Development Team:
 
    Role: Cross-functional team responsible for designing, developing, testing, and delivering the software.
+   
    Responsibilities: Self-organizes to complete user stories in sprints, collaborates with stakeholders, and ensures the quality of the product.
    
 4. Quality Assurance (QA) Team:
 
    Role: Ensures the software meets quality standards and is free of defects.
+   
    Responsibilities: Writes test cases, performs manual and automated testing, reports defects, and participates in sprint demos.
 
 5. DevOps Team:
 
    Role: Focuses on automation, continuous integration, continuous delivery (CI/CD), and infrastructure as code (IaC).
+   
    Responsibilities: Manages deployment pipelines, automates infrastructure provisioning on AWS, and ensures smooth deployments.
 
 6. Security Team:
 
    Role: Ensures the security of the application and infrastructure on AWS.
+   
    Responsibilities: Conducts security assessments, implements security controls, and monitors for vulnerabilities and threats.
 
 7. Cloud Operations Team:
 
    Role: Manages and monitors the AWS infrastructure.
+   
    Responsibilities: Configures, scales, and maintains AWS services, monitors performance, and ensures high availability and disaster recovery.
 
 * Now, let's break down the software development flow with teams involved using AWS:
