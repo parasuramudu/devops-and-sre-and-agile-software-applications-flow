@@ -20,6 +20,7 @@ DevOps, short for Development and Operations, is a set of practices and cultural
 * Quality Assurance (QA) Team: Conduct manual testing and ensure software quality.
   
   Containerization: Use Docker to package applications and their dependencies.
+  
   Orchestration: Employ tools like Kubernetes to manage containers.
 
 4. Deployment:
